@@ -3,7 +3,7 @@
 A robust, console-based Java and SQLite application featuring secure role-based access control, password hashing, input validation, and dynamic data management for hospital operations.
 
 ## Demo
-Watch the video demonstration of the system in action
+Watch the video demonstration of the system in action https://drive.google.com/file/d/1QAj-QytBJb3PCZRuSR5sE_rec98pV5W5/view?usp=drive_link
 
 ## Inspiration
 This project was inspired by my  background at CHU Sainte-Justine, giving me practical insight into how hospital workflows, staff management, and secure data handling function in a real healthcare environment.
