@@ -37,7 +37,7 @@ This project was inspired by my  background at CHU Sainte-Justine, giving me pra
 * **Admin Account:** Use `admin` as the username and `admin123` as the password.
 * **Manager Account:** Use `sconner` as the username and `pass123`
 * **Regular User Account:** Use `jdoe` as the username and `pass123`
-  Feel free to use any other credentials to test different departments/schedules.
+  Feel free to use any other credentials available on the DB to log in and test different departments/schedules.
   
 ## Limitations & Future Optimizations
 
