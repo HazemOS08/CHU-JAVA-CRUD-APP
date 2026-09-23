@@ -33,7 +33,12 @@ This project was inspired by my  background at CHU Sainte-Justine, giving me pra
 3. Open the project in your preferred Java IDE (like IntelliJ or VsCode).
 4. **Simply run `Main.java`**: The database will automatically initialize itself upon first launch.
    > **Note:** The necessary JDBC driver JAR file is located in the `db/` folder. Ensure your IDE configuration recognizes it in the build path if module/library settings require it to work properly.
-
+### Test Credentials
+* **Admin Account:** Use `admin` as the username and `admin123` as the password.
+* **Manager Account:** Use `sconner` as the username and `pass123`
+* **Regular User Account:** Use `jdoe` as the username and `pass123`
+  Feel free to use any other credentials to test different departments/schedules.
+  
 ## Limitations & Future Optimizations
 
 * **Console-Based Interface:** Currently limited to a command-line interface (CLI), which could be expanded into a full GUI or web-based frontend in future iterations.
