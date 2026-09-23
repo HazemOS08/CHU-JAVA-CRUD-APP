@@ -5,6 +5,9 @@ A robust, console-based Java and SQLite application featuring secure role-based 
 ## Demo
 Watch the video demonstration of the system in action
 
+## Inspiration
+This project was inspired by my  background at CHU Sainte-Justine, giving me practical insight into how hospital workflows, staff management, and secure data handling function in a real healthcare environment.
+
 ## Features & Role-Based Access Control
 
 ### Administrator Control
